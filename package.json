@@ -1,0 +1,23 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "start": 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regina-ms/npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Regina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regina-ms/npm-package/issues"
+  },
+  "homepage": "https://github.com/regina-ms/npm-package#readme"
+}
